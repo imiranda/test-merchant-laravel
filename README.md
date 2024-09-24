@@ -1,12 +1,10 @@
-# Proyecto desafio tecnico Laravel con Vue.js
+# Proyecto desafio tecnico Laravel
 
 **Descripción:**
 Este proyecto es una aplicación cuya finalidad es mostrar algunas competencias tecnicas
 
 **Tecnologías:**
 * Laravel 10
-* Vue.js 3
-* Bootstrap 5
 
 **Instalación Backend:**
 
